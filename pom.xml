@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.simtechdata</groupId>
-    <artifactId>DELETESqlite</artifactId>
+    <artifactId>SqliteUpgradeProblem</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>DELETESqlite</name>
+    <name>SqliteUpgradeProblem</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -5,5 +5,11 @@ Make sure your JDK is version 22 and Maven is latest version.
 Clone the project
 
 ```bash
-git clone 
+git clone https://github.com/EasyG0ing1/SqliteUpgradeProblem.git
+```
+
+go into the project folder then 
+
+```bash
+
 ```
